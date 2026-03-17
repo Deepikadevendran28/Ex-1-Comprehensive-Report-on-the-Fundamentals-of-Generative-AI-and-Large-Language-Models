@@ -65,6 +65,7 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 Output:
 
+[Prompt Engineering.pdf](https://github.com/user-attachments/files/26044082/Prompt.Engineering.pdf)
 
 Result:
 
